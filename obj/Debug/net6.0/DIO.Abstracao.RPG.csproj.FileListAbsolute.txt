@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DIOGame\bin\Debug\net6.0\DIO.Abstracao.RPG.exe
+C:\Users\User\Documents\DIOGame\bin\Debug\net6.0\DIO.Abstracao.RPG.deps.json
+C:\Users\User\Documents\DIOGame\bin\Debug\net6.0\DIO.Abstracao.RPG.runtimeconfig.json
+C:\Users\User\Documents\DIOGame\bin\Debug\net6.0\DIO.Abstracao.RPG.dll
+C:\Users\User\Documents\DIOGame\bin\Debug\net6.0\DIO.Abstracao.RPG.pdb
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\DIO.Abstracao.RPG.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\DIO.Abstracao.RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\DIO.Abstracao.RPG.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\DIO.Abstracao.RPG.AssemblyInfo.cs
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\DIO.Abstracao.RPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\DIO.Abstracao.RPG.dll
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\refint\DIO.Abstracao.RPG.dll
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\DIO.Abstracao.RPG.pdb
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\DIO.Abstracao.RPG.genruntimeconfig.cache
+C:\Users\User\Documents\DIOGame\obj\Debug\net6.0\ref\DIO.Abstracao.RPG.dll
